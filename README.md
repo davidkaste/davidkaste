@@ -23,7 +23,7 @@ I'm **davidkaste**, an Android app developer at [GFT](https://www.gft.com/es/es/
   - :cloud: Retrofit / Volley
 - :v: Vue (Only for fun and profit, no professional experience)
 
-#### Things that most people don't care about
+### Things that most people don't care about
 - I can solve a Rubik's Cube in less than a minute
 - I make my own :beer:
 - I have quitted :smoking:
