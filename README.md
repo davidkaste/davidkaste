@@ -7,7 +7,7 @@ I'm **davidkaste**, an Android app developer at [GFT](https://www.gft.com/es/es/
 ![Android](https://img.shields.io/badge/Android-32DD8B?style=for-the-badge&logo=android&logoColor=white&labelColor=010101)
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=010101)
 
-## Other skills
+### Other skills
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=010101)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=010101)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=010101)
