@@ -15,6 +15,8 @@ I'm **davidkaste**, an Android app developer at [GFT](https://www.gft.com/es/es/
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=010101)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=010101)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white&labelColor=010101)
+![Redux-Saga](https://img.shields.io/badge/Redux%20Saga-86d46b?style=for-the-badge&logo=redux-saga&logoColor=white&labelColor=010101)
 ![VueJS](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=010101)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white&labelColor=010101)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=010101)
