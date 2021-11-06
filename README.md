@@ -1,6 +1,7 @@
-## Hola! 👋
+# :wave: Hi, I’m David!
+My name is David Castellà and I am a computer scientist graduated from the University of Lleida. I’m specialised in software engineering and Android app development.
 
-I'm **davidkaste**, an Android app developer at [GFT](https://www.gft.com/es/es/index/). I like Kotlin, Haskell, modern board games and craft beer.
+I am currently working at the Lleida office of GFT IT Consulting, S.L., where I am an Android Lead Developer. I am focused in writing clean and scalable code, using tools and good practices like refactoring, unit tests, clean architectures, etc. I also like to share knowledge between team members to never stop learning. Even the newest member has knowledge to learn from.
 
 ## Professional Skills
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=010101)
@@ -24,6 +25,9 @@ I'm **davidkaste**, an Android app developer at [GFT](https://www.gft.com/es/es/
 ![VisualStudioCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=010101)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=010101)
 ![IntelliJIDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=010101)
+
+## Free time & hobbies
+I really enjoy sharing good times with my wife and little daughter :baby:. I also like to spend good times playing modern board games and wargames with my friends :game_die:, listening to rock, punk rock or Jamaican music :musical_note:, playing videogames :space_invader:, watching movies and TV series :movie_camera: or simply enjoying a good talk while we drink craft beer :beer:.
 
 <!--
 **davidkaste/davidkaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
