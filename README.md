@@ -29,6 +29,12 @@ I am currently working at the Lleida office of [GFT IT Consulting S.L.](https://
 ## Free time & hobbies
 I really enjoy sharing good times with my wife and little daughter :baby:. I also like to spend good times playing modern board games and wargames with my friends :game_die:, listening to rock, punk rock or Jamaican music :musical_note:, playing videogames :space_invader:, watching movies and TV series :movie_camera: or simply enjoying a good talk while we drink craft beer :beer:.
 
+## Github Stats
+
+![davidkaste's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkaste&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkaste&theme=radical)
+
+
 <!--
 **davidkaste/davidkaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
