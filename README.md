@@ -27,7 +27,7 @@ I am currently working at [BeMobile](https://bemobile.es) as a Senior Android De
 ![IntelliJIDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=010101)
 
 ## Free time & hobbies
-I really enjoy sharing good times with my wife and little daughter :baby:. I also like to spend good times playing modern board games and wargames with my friends :game_die:, listening to rock, punk rock or Jamaican music :musical_note:, playing videogames :space_invader:, watching movies and TV series :movie_camera: or simply enjoying a good talk while we drink craft beer :beer:.
+I really enjoy sharing good times with my wife and little daughter :baby:. I also like to spend good times playing modern roleplaying games, board games and wargames with my friends :game_die:, listening to rock, punk rock or Jamaican music :musical_note:, playing videogames :space_invader:, watching movies and TV series :movie_camera: or simply enjoying a good talk while we drink craft beer :beer:.
 
 ## Github Stats
 
