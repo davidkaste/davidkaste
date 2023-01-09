@@ -33,7 +33,7 @@ I really enjoy sharing good times with my wife and little daughter :baby:. I als
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=davidkaste&show_icons=true&theme=radical">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=davidkaste&show_icons=true&theme=radical" height="175" alt="joseluisgs"/>
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=davidkaste&show_icons=true&theme=radical" height="175" alt="davidkaste"/>
   </a> 
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkaste&theme=radical&layout=compact">
     <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkaste&theme=radical&layout=compact" height="175"/>
