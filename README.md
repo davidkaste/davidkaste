@@ -14,6 +14,7 @@ I am currently working at [BeMobile](https://bemobile.es) as a Senior Android De
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=010101)
 ### Tools
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=010101)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=010101)
 
 ### Other skills
 #### Languages
