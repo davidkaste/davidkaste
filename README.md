@@ -19,10 +19,12 @@ I am currently working at [BeMobile](https://bemobile.es) as a Senior Android De
 ### Other skills
 #### Languages
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=010101)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=010101)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white&labelColor=010101)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=010101)
 
 #### Frameworks and libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=010101)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=010101)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=010101)
 ![Redux-Saga](https://img.shields.io/badge/Redux%20Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white&labelColor=010101)
