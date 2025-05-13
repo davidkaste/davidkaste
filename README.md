@@ -1,7 +1,7 @@
 # :wave: Hi, I’m David!
 My name is David Castellà and I am a computer scientist graduated from the [University of Lleida](https://www.udl.es). I’m specialised in software engineering and Android app development.
 
-I am currently working at Openbank as a Senior Android Analyst. I am focused in writing clean and scalable code, using tools and good practices like refactoring, unit tests, clean architectures, etc. I also like to share knowledge between team members to never stop learning. Even the newest member has knowledge to learn from.
+I am currently working at Bemobile as a Senior Android Developer. I am focused in writing clean and scalable code, using tools and good practices like refactoring, unit tests, clean architectures, etc. I also like to share knowledge between team members to never stop learning. Even the newest member has knowledge to learn from.
 
 ## Professional Skills
 ### Languages
