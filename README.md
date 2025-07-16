@@ -15,6 +15,7 @@ I am currently working at Bemobile as a Senior Android Developer. I am focused i
 ### Tools
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=010101)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=010101)
+![Bash](https://img.shields.io/badge/Bash-F4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=010101)
 
 ### Other skills
 #### Languages
