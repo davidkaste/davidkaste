@@ -33,6 +33,7 @@ I am currently working at Bemobile as a Senior Android Developer. I am focused i
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=010101)
 
 #### Tools
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=010101)
 ![VisualStudioCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=010101)
 ![IntelliJIDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=010101)
 
